@@ -1,0 +1,2 @@
+# CONCRETE-SURFACE-CRACK-CLASSIFICATION-USING-SWIN-TINY-TRANSFORMER
+This project compares five deep learning models—ConvNeXt V2-Tiny, EfficientNetV2-S, RepViT-M1, ResNet50, and Swin-Tiny Transformer—for classifying concrete surface images into crack and no-crack categories. Performance is evaluated using classification metrics and Grad-CAM for visual explainability, supporting automated concrete inspection.
